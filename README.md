@@ -53,7 +53,6 @@
     <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="40" alt="MongoDB"  />
     <img width="12" />
     </div>
-    ###
 
   
 
