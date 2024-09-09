@@ -24,14 +24,14 @@
 
 ###
 
-<h1 align="center">Hi every one i'm Vineesha Villa👋</h1>
+<h1 align="center">Hello people!I'm Vineesha Villa👋</h1>
 
 ###
 
 <h3 align="left">About Me</h3>
 
 ###
-<p align="left">- 📚 I'm currently pursuing B.TECH 3rd year  ...</br>💬 Ask me about anything, I am happy to help.<br>- ⚡ My branch is CSE+(Data Science)</p>
+<p align="left">- 📚 Computer Science student currently pursuing 4th BTech  ...</br>💬 Ask me about anything, I am happy to help.<br>- ⚡ "In a world full of questions, data is the compass that guides us to the answers."</p>
 
 
 
